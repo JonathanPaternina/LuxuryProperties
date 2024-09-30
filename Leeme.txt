@@ -1,0 +1,13 @@
+===============================================
+		Importante
+===============================================
+
+1. Para ejecutar el proyecto es necesario y 
+garantizar el funcionamiento, se debe cambiar 
+la cadena de conexión a la base de datos,
+definida en el archivo appsettings.json.
+
+2. La API Cuenta con seguridad y autenticación
+para usuarios. Al levantarla, a través de 
+Swagger, podrá registrarse y generar el token de 
+autorización para consumir los métodos expuestos
